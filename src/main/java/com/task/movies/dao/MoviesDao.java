@@ -2,7 +2,6 @@ package com.task.movies.dao;
 
 import com.task.movies.pojo.Movie;
 
-import java.io.IOException;
 import java.util.List;
 
 public interface MoviesDao {
